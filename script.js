@@ -3,25 +3,25 @@ function sendEmail()
 
 $(document).ready(function() {
     $("#pi-hex").click(function() {
-        $(".row-pi").slideToggle(300);
+        $("#content-pi").slideToggle(300);
     });
 });
 
 $(document).ready(function() {
     $("#data-hex").click(function() {
-        $(".row-data").slideToggle(300);
+        $("#content-data").slideToggle(300);
     });
 });
 
 $(document).ready(function() {
     $("#NDT-hex").click(function() {
-        $(".row-NDT").slideToggle(300);
+        $("#content-NDT").slideToggle(300);
     });
 });
 
 $(document).ready(function() {
     $("#hobby-hex").click(function() {
-        $(".row-hobby").slideToggle(300);
+        $("#content-hobby").slideToggle(300);
     });
 });
 
