@@ -8,8 +8,15 @@
        {window.location ="mailto:jfparie@me.com";}
     </script>
     <script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
-    <script type="text/javascript" src="/jquery.js"></script>
-    
+    <!-- <script type="text/javascript" src="/jquery.js"></script> -->
+    <script>
+        $(document).ready(function() {
+            $("#pi-hex").click(function() {
+            $(".row2").slideToggle(300);
+            });
+        });
+    </script>
+
 </head>
 
 <div class = "row1">
