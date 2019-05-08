@@ -6,8 +6,13 @@
   .row-pi{
     position:relative;
     height: 300px;
-    background-color: #FFCE00;
-    opacity: 0.2;
+    background-color: #FDF3CB;
+    padding-top: 30px;
+  }
+  
+  .link{
+    color: #262626;
+    text-decoration: underline;
   }
   
   .row-data{
