@@ -4,7 +4,7 @@
 }
   
 .row-content{
-    padding-top: 100px;
+    padding-top: 70px;
     position:relative;
     height: 300px;
 }
@@ -15,19 +15,19 @@
 }
 
 #row-pi{
-    background-color: #FDF3CB;
+    background-color: #FCF1C0;
 }
 
 #row-data{
-    background-color: #339966;
+    background-color: #CAE7D9;
 }
 
 #row-NDT{
-    background-color: #8680BF;
+    background-color: #B5B0D7;
 }
 
 #row-hobby{
-    background-color: #8DD6F9;
+    background-color: #E2F5FD;
 }
 
 .footer{
