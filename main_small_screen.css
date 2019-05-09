@@ -41,7 +41,7 @@
 
 :root {
 /* Change this to change the appearance of the hexaons */
---hex-width: 500px; 
+--hex-width: 250px; 
 --hex-between: 20px;
 
 /* Other hexagon dimentions */
