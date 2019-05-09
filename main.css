@@ -1,3 +1,11 @@
+#wrapper{
+    text-align: center;
+}
+
+.hexagon-container{
+    display: inline-block;
+}
+
 .row1{
     position:relative;
     height: 580px;
