@@ -6,7 +6,6 @@
 .row-content{
     padding-top: 30px;
     position:relative;
-    height: 400px;
 }
 
 .link{
@@ -15,23 +14,27 @@
 }
 
 #row-pi{
+    height: 250px;
     background-color: #FCF1C0;
 }
 
 #row-data{
+    height: 400px;
     background-color: #CAE7D9;
 }
 
 #row-NDT{
+    height: 300px;
     background-color: #B5B0D7;
 }
 
 #row-hobby{
+    height: 300px;
     background-color: #E2F5FD;
 }
 
 .footer{
-    position:relative;
+    text-align: center;
     height: 50px;
     margin-top: 100px;
 }
