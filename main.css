@@ -15,21 +15,25 @@
 
 #row-pi{
     height: 250px;
+    width: 100%;
     background-color: #FCF1C0;
 }
 
 #row-data{
     height: 350px;
+    width: 100%;
     background-color: #CAE7D9;
 }
 
 #row-NDT{
     height: 275px;
+    width: 100%;
     background-color: #B5B0D7;
 }
 
 #row-hobby{
     height: 200px;
+    width: 100%;
     background-color: #E2F5FD;
 }
 
