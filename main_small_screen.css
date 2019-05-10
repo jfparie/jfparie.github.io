@@ -41,8 +41,8 @@
 
 :root {
 /* Change this to change the appearance of the hexaons */
---hex-width: 50px; 
---hex-between: 5px;
+--hex-width: 90px; 
+--hex-between: 7.5px;
 
 /* Other hexagon dimentions */
 --hex-height: calc(var(--hex-width) / 1.73 /* sqrt(3) */);
