@@ -2,37 +2,58 @@ function sendEmail()
         {window.location ="mailto:jfparie@me.com";};
 
 $(document).ready(function() {
-    $("#pi-hex").click(function() {
-        $("#row-pi").slideToggle(300);
+    $("#logo").click(function() {
         $('html,body').animate({
-        scrollTop: $("#row-pi").offset().top},
+        scrollTop: $("#JFP_bio").offset().top},
         'slow');
     });
 });
 
 $(document).ready(function() {
-    $("#data-hex").click(function() {
-        $("#row-data").slideToggle(300);
+    $("#eth-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#row-data").offset().top},
+        scrollTop: $("#eth-icon").offset().top},
+        'slow');
+    });
+});
+
+$(document).ready(function() {
+    $("#news-hex").click(function() {
+        $('html,body').animate({
+        scrollTop: $("#news-icon").offset().top},
+        'slow');
+    });
+});
+
+
+$(document).ready(function() {
+    $("#pi-hex").click(function() {
+        $('html,body').animate({
+        scrollTop: $("#pi-icon").offset().top},
+        'slow');
+    });
+});
+
+$(document).ready(function() {
+    $("#lse-hex").click(function() {
+        $('html,body').animate({
+        scrollTop: $("#lse-icon").offset().top},
         'slow');
     });
 });
 
 $(document).ready(function() {
     $("#NDT-hex").click(function() {
-        $("#row-NDT").slideToggle(300);
         $('html,body').animate({
-        scrollTop: $("#row-NDT").offset().top},
+        scrollTop: $("#ndt-icon").offset().top},
         'slow');
     });
 });
 
 $(document).ready(function() {
     $("#hobby-hex").click(function() {
-        $("#row-hobby").slideToggle(300);
         $('html,body').animate({
-        scrollTop: $("#row-hobby").offset().top},
+        scrollTop: $("#hobby-icon").offset().top},
         'slow');
     });
 });
