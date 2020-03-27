@@ -4,7 +4,7 @@ function sendEmail()
 $(document).ready(function() {
     $("#logo").click(function() {
         $('html,body').animate({
-        scrollTop: $("#JFP_bio").offset().top},
+        scrollTop: $("#lightblue-area1").offset().top},
         'slow');
     });
 });
@@ -12,7 +12,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#eth-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#eth-icon").offset().top},
+        scrollTop: $("#blue-area").offset().top},
         'slow');
     });
 });
@@ -20,7 +20,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#news-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#news-icon").offset().top},
+        scrollTop: $("#green-area").offset().top},
         'slow');
     });
 });
@@ -29,7 +29,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#pi-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#pi-icon").offset().top},
+        scrollTop: $("#yellow-area").offset().top},
         'slow');
     });
 });
@@ -37,7 +37,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#lse-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#lse-icon").offset().top},
+        scrollTop: $("#red-area").offset().top},
         'slow');
     });
 });
@@ -45,7 +45,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#NDT-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#ndt-icon").offset().top},
+        scrollTop: $("#violet-area").offset().top},
         'slow');
     });
 });
@@ -53,7 +53,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#hobby-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#hobby-icon").offset().top},
+        scrollTop: $("#lightblue-area2").offset().top},
         'slow');
     });
 });
