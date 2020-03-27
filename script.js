@@ -4,7 +4,7 @@ function sendEmail()
 $(document).ready(function() {
     $("#logo").click(function() {
         $('html,body').animate({
-        scrollTop: $("#lightblue-area1").offset().top},
+        scrollTop: $("#lightblue1-area").offset().top},
         'slow');
     });
 });
@@ -53,7 +53,7 @@ $(document).ready(function() {
 $(document).ready(function() {
     $("#hobby-hex").click(function() {
         $('html,body').animate({
-        scrollTop: $("#lightblue-area2").offset().top},
+        scrollTop: $("#lightblue2-area").offset().top},
         'slow');
     });
 });
