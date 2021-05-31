@@ -94,12 +94,7 @@
   padding: 30px 20px;
 }
 
-#lightblue1-area{
-  background-color: #f5fbfd;
-  padding: 30px 20px;
-}
-
-#lightblue2-area{
+#lightblue-area{
   background-color: #f5fbfd;
   padding: 30px 20px;
 }
@@ -154,6 +149,25 @@
     position: absolute;
     background-image: url('https://raw.githubusercontent.com/jfparie/jfparie.github.io/master/Images/pdf_bestand.png');
     background-size: 15px 17.5px;
+    background-position: center;
+    left: 0;
+}
+
+.custom-list2 {
+    list-style: none;
+    padding-left: 0;
+}
+.custom-list2 li {
+    position: relative;
+    padding-left: 20px;
+}
+.custom-list2 li:before {
+    content: '';
+    width: 12.5px;
+    height: 16px;
+    position: absolute;
+    background-image: url('https://raw.githubusercontent.com/jfparie/jfparie.github.io/master/Images/Headphones.png');
+    background-size: 17.5px 15px;
     background-position: center;
     left: 0;
 }
