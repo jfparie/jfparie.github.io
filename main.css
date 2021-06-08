@@ -1,11 +1,11 @@
 .parent-container {
-  width: 1000px;
+  width: 50%;
   margin: auto auto;
   justify-content: center;
 }
 
 .row1 {
-width: 1000px;
+width: 100%;
 padding-bottom: 35px;
 display: flex;
 flex-flow: row wrap;
@@ -16,12 +16,12 @@ flex-flow: row wrap;
 }
 
 .content-container{
-width: 1000px;
+width: 100%;
 margin-top: 50px;
 }
 
 .row-content {
-width: 1000px;
+width: 100%;
 margin-top: 50px;
 align-items: center;
 display: flex;
