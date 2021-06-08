@@ -1,6 +1,7 @@
 .parent-container {
   width: 50%;
   min-width: 600px;
+  min-width: 1200px;
   margin: auto auto;
   justify-content: center;
 }
