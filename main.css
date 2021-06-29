@@ -1,7 +1,6 @@
 .parent-container {
   width: 50%;
   min-width: 600px;
-  min-width: 1000px;
   margin: auto auto;
   justify-content: center;
 }
@@ -142,6 +141,15 @@ margin: 0 auto;
 margin-left:auto; 
 margin-right:auto; 
 display:block;
+}
+
+.custom-list-normal {
+  padding-left: 20px;
+}
+
+.custom-list-normal li {
+  position: relative;
+  padding-left:10px;
 }
 
 .custom-list {
