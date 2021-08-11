@@ -1,5 +1,6 @@
 .parent-container {
-    width: 100%;
+    width: 50%;
+    min-width: 600px;
     margin: auto auto;
     justify-content: center;
 }
@@ -18,7 +19,6 @@
 .content-container{
   width: 100%;
   margin-top: 50px;
-  border: 1px solid red;
 }
 
 .row-content {
@@ -224,7 +224,7 @@
 
 :root {
   /* Change this to change the appearance of the hexaons */
-  --hex-width: 80px;
+  --hex-width: 70px;
   --hex-between: 10px;
 
   /* Other hexagon dimentions */
@@ -255,7 +255,7 @@
 
 /* Hexagons */
 .hexagon-container {
-  width: 740px;
+  width: 100%;
   margin: 0% auto;
   display: grid;
   grid-template-columns: var(--hex-width) var(--hex-width) var(--hex-width) var(
