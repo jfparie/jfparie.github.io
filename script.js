@@ -1,3 +1,12 @@
+function check_width() { 
+    if (window.innerWidth < 960) {
+      window.location = "index_mobile.html";
+      }
+    if (window.innerWidth >= 960) {
+        window.location = "index.html";
+    }
+}
+
 function sendEmail() 
         {window.location ="mailto:jfparie@me.com";};
 
