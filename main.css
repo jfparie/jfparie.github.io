@@ -93,6 +93,16 @@ display:block;
 margin: 0 auto;
 }
 
+#black-area{
+  background-color: #e6e6e6;
+  padding: 30px 20px;
+}
+
+#aa-area{
+  background-color: #d1e3e2;
+  padding: 30px 20px;
+}
+
 #eth-icon-g{
 transform:scale(1.9);
 -webkit-transform:scale(1.9);
@@ -227,6 +237,8 @@ flex-flow: row wrap;
 --color-lse: #ed1c2e;
 --color-ndt: #56347c;
 --color-hobby: #8dd6f9;
+--color-ibm: #000000;
+--color-aa: #3f8f8b;
 }
 
 /* Hexagons */
@@ -425,4 +437,28 @@ border-bottom-color: var(--color-hobby);
 }
 .color-hobby:hover {
 fill: var(--color-hobby);
+}
+
+.color-ibm {
+  background-color: var(--color-ibm);
+}
+.color-ibm::after,
+.color-ibm::before {
+  border-top-color: var(--color-ibm);
+  border-bottom-color: var(--color-ibm);
+}
+.color-ibm:hover {
+  fill: var(--color-ibm);
+}
+
+.color-aa {
+  background-color: var(--color-aa);
+}
+.color-aa::after,
+.color-aa::before {
+  border-top-color: var(--color-aa);
+  border-bottom-color: var(--color-aa);
+}
+.color-aa:hover {
+  fill: var(--color-aa);
 }
