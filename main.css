@@ -319,6 +319,7 @@ border-top-color: var(--color-none);
 border-bottom-color: var(--color-none);
 }
 
+/* JFP */
 .color-jfp {
 background-color: var(--color-none);
 }
@@ -331,6 +332,7 @@ border-bottom-color: var(--color-jfp);
 fill: var(--color-jfp);
 }
 
+/* Mail */
 .color-mail {
 background-color: var(--color-mail);
 }
@@ -343,6 +345,7 @@ border-bottom-color: var(--color-mail);
 fill: var(--color-mail);
 }
 
+/* Linkedin */
 .color-linkedin {
 background-color: var(--color-linkedin);
 }
@@ -355,6 +358,7 @@ border-bottom-color: var(--color-linkedin);
 fill: var(--color-linkedin);
 }
 
+/* Pi */
 .color-pi {
 background-color: var(--color-pi);
 }
@@ -367,6 +371,7 @@ border-bottom-color: var(--color-pi);
 fill: var(--color-pi);
 }
 
+/* Git */
 .color-git {
 background-color: var(--color-git);
 }
@@ -379,6 +384,7 @@ border-bottom-color: var(--color-git);
 fill: var(--color-git);
 }
 
+/* news */
 .color-news {
 background-color: var(--color-news);
 }
@@ -391,6 +397,7 @@ border-bottom-color: var(--color-news);
 fill: var(--color-news);
 }
 
+/* LSE */
 .color-lse {
 background-color: var(--color-lse);
 }
@@ -403,6 +410,7 @@ border-bottom-color: var(--color-lse);
 fill: var(--color-lse);
 }
 
+/* ETH */
 .color-eth {
 background-color: var(--color-eth);
 }
@@ -453,6 +461,10 @@ fill: var(--color-hobby);
 
 .color-aa {
   background-color: var(--color-aa);
+  stroke: #FFFFFF;
+  stroke-width: 4px;
+  stroke-linecap:round;
+  stroke-miterlimit:10;
 }
 .color-aa::after,
 .color-aa::before {
@@ -461,4 +473,9 @@ fill: var(--color-hobby);
 }
 .color-aa:hover {
   fill: var(--color-aa);
+  stroke: #3f8f8b;
+}
+
+.st7{
+  fill: #3f8f8b;
 }
