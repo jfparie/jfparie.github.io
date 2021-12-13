@@ -1,6 +1,5 @@
 .parent-container {
     width: 50%;
-    min-width: 600px;
     margin: auto auto;
     justify-content: center;
 }
@@ -101,16 +100,6 @@
 #blue-aa-area{
   background-color: #f1f5fa;
   padding: 30px 20px;
-}
-
-#bkb-area{
-  background-color: #f2f9f0;
-  padding: 30px 20px;
-}
-
-#bkb-hex-icon{
-  transform:scale(1.5);
-  -webkit-transform:scale(1.5);
 }
 
 #eth-icon-g{
@@ -250,7 +239,6 @@
   --color-ibm: #000000;
   --color-aa: #61b3de;
   --color-aa2: #1d386f;
-   --color-bkb: #00A85D;
 }
 
 /* Hexagons */
@@ -473,16 +461,4 @@
 }
 .color-aa:hover {
   fill: var(--color-aa2);
-}
-
-.color-bkb {
-  background-color: var(--color-bkb);
-}
-.color-bkb::after,
-.color-bkb::before {
-  border-top-color: var(--color-bkb);
-  border-bottom-color: var(--color-bkb);
-}
-.color-bkb:hover {
-  fill: var(--color-bkb);
 }

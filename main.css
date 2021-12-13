@@ -175,7 +175,7 @@ display:block;
   width: 12.5px;
   height: 16px;
   position: absolute;
-  background-image: url('https://raw.githubusercontent.com/jfparie/jfparie.github.io/master/Images/pdf_bestand.png');
+  background-image: url('https://rawf.githubusercontent.com/jfparie/jfparie.github.io/master/Images/pdf_bestand.png');
   background-size: 15px 17.5px;
   background-position: center;
   left: 0;
@@ -203,6 +203,7 @@ display:block;
 .footer {
 height: 25px;
 margin-top: 100px;
+text-align: center;
 display: flex;
 flex-flow: row wrap;
 
