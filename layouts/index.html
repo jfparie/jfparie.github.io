@@ -4,20 +4,24 @@
 
 <head>
 
-    {{ partial "head.html" . }}
+	{{ partial "head.html" . }}
 
 </head>
 
 <body class="{{ if .IsHome }}home{{ end }}">
 
 	{{ partial "header.html" . }}
-
-	{{ range .Site.Params.sections }}
-	{{ partial . $ }}
-	{{ end }}
+	<section class="container" id="main">
+		<h1 id="title">{{ .Title }}</h1>
+		<div>
+			<article id="content">
+				{{ .Content }}
+			</article>
+		</div>
+	</section>
 
 	{{ partial "footer.html" . }}
-    {{ partial "base-foot.html" . }}
+	{{ partial "base-foot.html" . }}
 </body>
 
 </html>
