@@ -4,6 +4,7 @@
   "description": "A starter for TinaCMS with Hugo",
   "main": "index.js",
   "scripts": {
+    "start": "yarn dev",
     "dev": "tinacms dev -c \"hugo server -D\"",
     "build": "tinacms build && hugo",
     "build-local": "tinacms build --local --skip-indexing --skip-cloud-checks && hugo",
