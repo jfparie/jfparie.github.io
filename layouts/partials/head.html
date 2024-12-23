@@ -5,6 +5,8 @@
 <title>{{ i18n "head_title" }}</title>
 <meta name="description" content='{{ i18n "head_description" }}'>
 
+<link rel="preload" href='{{ "plugins/bootstrap/bootstrap.min.css" | absURL }}' as="style" onload="this.onload=null;this.rel='stylesheet'"></link>
+
 {{ $critical := resources.Get "css/critical.css" | css.Sass | resources.Minify }}
 <style data-generator="critical-css">
 {{ $critical.Content | safeCSS }}
