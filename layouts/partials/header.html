@@ -1,13 +1,13 @@
 <header class="sticky-top" id="header">
-  <div class="container rad-fade-in">
-    <nav class="navbar navbar-expand-lg navbar-light p-0">
+  <div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light p-0 d-inline-block">
       <div class="container-fluid">
         <a class="navbar-brand mx-auto" href="{{ .Site.BaseURL | absURL }}">
           <span>{{ i18n "logo_text1" }}</span>
           <span>{{ i18n "logo_text2" }}</span>
         </a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
-          data-bs-target="#navbarSupportedContent, #header" aria-controls="navbarSupportedContent" aria-expanded="false"
+          data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
           aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -18,31 +18,31 @@
               <a data-scroll class="nav-link" href="{{ .URL | relURL }}">{{ .Name | upper }}</a>
             </li>
             {{ end }}
-          </ul>
+          {{ if hugo.IsMultilingual }}
+          {{ range .Site.Languages }}
+          {{ if eq . $.Site.Language }}
+          <li class="nav-item">
+          <button class="btn " type="button" data-bs-toggle="collapse" data-bs-target="#languages-dropdown"
+            aria-expanded="false" aria-controls="languages-dropdown">
+            <span class="label">{{ .LanguageName }}</span>
+          </button>
+          <div class="collapse" id="languages-dropdown">
+            <div class="card card-body">
+              <div class="current"><span>{{ .LanguageName }}</span></div>
+              {{ end }}
+              {{ end }}
+              {{ range $.Translations }}
+              <div><a class="translation" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{
+                  .Language.LanguageName }}</a></div>
+              {{ end }}
+            </div>
+          </div>
+        </li>
+          {{ end }}
+          
+        </ul>
         </div>
       </div>
     </nav>
-    {{ if hugo.IsMultilingual }}
-    <nav class="language-selector">
-      <ul>
-        {{ range .Site.Languages }}
-        {{ if eq . $.Site.Language }}
-        <li class="dropdown">
-          <button type="button" class="dropdown__title" aria-expanded="false" aria-controls="languages-dropdown">
-            <span class="label">{{ .LanguageName }}</span>
-          </button>
-          <ul class="dropdown__menu" id="languages-dropdown">
-            <li class="current"><span>✔️ {{ .LanguageName }}</span></li>
-            {{ end }}
-            {{ end }}
-            {{ range $.Translations }}
-            <li><a class="translation" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{
-                .Language.LanguageName }}</a></li>
-            {{ end }}
-          </ul>
-        </li>
-      </ul>
-    </nav>
-    {{ end }}
   </div>
 </header>
