@@ -1,53 +1,58 @@
-baseURL = "https://www.adrianmoreno.info"
-languageCode = "en"
+baseURL = "https://jfparie.github.io/"
+languageCode = "nl"
 
 [languages]
+  [languages.nl]
+    disabled = false
+    languageCode = 'nl'
+    languageDirection = 'ltr'
+    languageName = 'Nederlands'
+    title = ''
+    weight = 0
+
+    [languages.nl.menus]
+      [[languages.nl.menus.header]]
+        name = 'Home'
+        URL = '/'
+        weight = 1
+      [[languages.nl.menus.header]]
+        name = 'Artikel & Opinie'
+        URL = '/artikel-en-opinie'
+        weight = 2
+      [[languages.nl.menus.header]]
+        name = 'Lezingen & Debat'
+        URL = '/lezingen-en-debat'
+        weight = 3
+      [[languages.nl.menus.header]]
+      name = "Podcasts & Interviews"
+      URL = "/podcasts-en-interviews"
+      weight = 4
+
   [languages.en]
     disabled = false
     languageCode = 'en'
     languageDirection = 'ltr'
     languageName = 'English'
     title = ''
-    weight = 0
+    weight = 1
 
     [languages.en.menus]
       [[languages.en.menus.header]]
-        name = 'About'
-        URL = '#about'
+        name = 'Home'
+        URL = '/'
+        weight = 1
+      [[languages.en.menus.header]]
+        name = 'Articles & Opinion'
+        URL = '/artikel-en-opinie'
         weight = 2
       [[languages.en.menus.header]]
-        name = 'Portfolio'
-        URL = '#portfolio'
+        name = 'Lezingen & Debat'
+        URL = '/lezingen-en-debat'
         weight = 3
-      #  [[languages.en.menus.header]]
-      #  name = "Experience"
-      #  URL = "#experience"
-      #  weight = 4
-
       [[languages.en.menus.header]]
-        name = "Blog"
-        URL = "/blog"
-        weight = 5
-
-      [[languages.en.menus.header]]
-        name = "Contact"
-        URL = "#contact"
-        weight = 6
-
-      [[languages.en.menus.footer]]
-        name = "About"
-        URL = "#about"
-        weight = 2
-
-      [[languages.en.menus.footer]]
-        name = "Portfolio"
-        URL = "#portfolio"
-        weight = 3
-
-      [[languages.en.menus.footer]]
-        name = "Contact"
-        URL = "#contact"
-        weight = 4
+      name = "Podcasts & Interviews"
+      URL = "/podcasts-en-interviews"
+      weight = 4
 
 # Plugins
 [params.plugins]
