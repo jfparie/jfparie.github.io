@@ -2,4 +2,6 @@
 title: Boards
 ---
 
-- [Test](https://google.nl), Tekstje [Test2](https://google.com) &#x9;
+{{<title_block title="Title_block title" img="/images/pink_square.png" >}}
+[Subtitle](/)
+{{</title_block>}}
