@@ -1,24 +1,41 @@
 <footer class="footer">
   <div class="container">
-    <div class="footer__left">
-      <div class="footer__copy">
-        {{ i18n "footer_notice" | safeHTML }}
+    <div class="row">
+      <div class="col">
+
+        <ul class="navbar-nav ">
+          <li class="nav-item align-self-center">
+            <a data-scroll class="nav-link" href="/">
+              <!-- HOME -->
+              <div class="w-50">
+                <img src="/images/JFP.png" alt="Home" class="img-fluid">
+              </div>
+            </a>
+          </li>
+        </ul>
       </div>
-    </div>
-    <div class="footer__links">
-      <ul class="navbar-nav ">
-        <li class="nav-item">
-            <a class="nav-link" href="{{ .Site.BaseURL | absURL }}">🏠 HOME</a>
-        </li>
-        {{ range .Site.Menus.footer }}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ .URL | relURL }}">{{ .Name | upper }}</a>
-        </li>
-        {{ end }}
-      </ul>
-    </div>
-    <div class="footer__right">
-      
+      <div class="col align-self-center">
+        <p>Developed under license CC BY 4.0</p>
+      </div>
+      <div class="col align-self-center">
+        <ul class="navbar-nav list-group list-group-horizontal">
+          <li class="nav-item mx-4">
+            <a data-scroll class="nav-link" href="mailto:jfparie@me.com">
+              {{ partial "svg/mail.html" }}
+            </a>
+          </li>
+          <li class="nav-item mx-4">
+            <a data-scroll class="nav-link" href="https://linkedin.com/in/jfparie/" target="_blank">
+              {{ partial "svg/linkedin.html" }}
+            </a>
+          </li>
+          <li class="nav-item mx-4">
+            <a data-scroll class="nav-link" href="https://github.com/jfparie" target="_blank">
+              {{ partial "svg/git.html" }}
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </footer>
