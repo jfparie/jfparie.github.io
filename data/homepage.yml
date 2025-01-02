@@ -1,9 +1,0 @@
-## Looking for strings? Check the i18n folder.
-
-# contact
-contact:
-  enable: true
-  form:
-    action: "#"
-  button:
-    icon: "icon-email"
