@@ -9,11 +9,18 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-lg-auto">
+            {{ $current := . }}
             {{ range .Site.Menus.header }}
             <li class="nav-item align-self-center">
               <a data-scroll class="nav-link" href="{{ .URL | relURL }}">
                 {{ if .Name }}
-                {{ .Name | upper }}
+                  {{ $active := or ($current.IsMenuCurrent "header" .) ($current.HasMenuCurrent "header" .) }}
+                  {{ if $active  }}
+                  <u>
+                  {{ .Name | upper }}</u>
+                  {{ else }}
+                  {{ .Name | upper }}
+                  {{ end }}
                 {{ else }}
                 <!-- HOME -->
                 <div class="w-50">

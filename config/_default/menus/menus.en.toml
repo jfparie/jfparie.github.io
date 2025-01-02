@@ -1,19 +1,19 @@
 [[header]]
-    URL = '/'
+    pageref = '/'
     weight = 1
 [[header]]
     name = 'Home'
-    URL = '/'
+    pageref = '/'
     weight = 2
 [[header]]
     name = 'Articles & Opinion'
-    URL = '/artikel-en-opinie'
+    pageref = '/artikel-en-opinie'
     weight = 3
 [[header]]
     name = 'Lezingen & Debat'
-    URL = '/lezingen-en-debat'
+    pageref = '/lezingen-en-debat'
     weight = 4
 [[header]]
     name = "Podcasts & Interviews"
-    URL = "/podcasts-en-interviews"
+    pageref = "/podcasts-en-interviews"
     weight = 5
