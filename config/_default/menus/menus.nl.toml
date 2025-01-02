@@ -1,0 +1,16 @@
+[[header]]
+  name = 'Home'
+  URL = '/'
+  weight = 1
+[[header]]
+  name = 'Artikel & Opinie'
+  URL = '/artikel-en-opinie'
+  weight = 2
+[[header]]
+  name = 'Lezingen & Debat'
+  URL = '/lezingen-en-debat'
+  weight = 3
+[[header]]
+  name = "Podcasts & Interviews"
+  URL = "/podcasts-en-interviews"
+  weight = 4
