@@ -8,15 +8,12 @@
 
 </head>
 
-<body class="{{ if .IsHome }}home{{ end }}">
+<body>
 
 	{{ partial "header.html" . }}
 	<section class="container" id="main">
-		<h1 id="title">{{ .Title }}</h1>
 		<div>
-			<article id="content">
-				{{ .Content }}
-			</article>
+			{{ .Content }}
 		</div>
 	</section>
 
