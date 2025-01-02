@@ -1,6 +1,6 @@
 <header class="sticky-top bg-white shadow-sm" id="header">
-  <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light p-0 d-inline-block">
+  <div class="px-5 mx-5 row">
+    <nav class="navbar navbar-expand-lg navbar-light p-0 d-inline-block col">
       <div class="container-fluid my-2 m-lg-auto">
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
@@ -8,66 +8,58 @@
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav ml-lg-auto">
+          <ul class="navbar-nav ml-lg-auto row w-100">
             {{ $current := . }}
             {{ range .Site.Menus.header }}
-            <li class="nav-item align-self-center">
-              <a data-scroll class="nav-link" href="{{ .URL | relURL }}">
-                {{ if .Name }}
-                  {{ $active := or ($current.IsMenuCurrent "header" .) ($current.HasMenuCurrent "header" .) }}
-                  {{ if $active  }}
-                  <u>
-                  {{ .Name | upper }}</u>
-                  {{ else }}
+            {{ if .Name }}
+            <li class="nav-item align-self-center col">
+              <a data-scroll class="nav-link text-center" href="{{ .URL | relURL }}">
+                {{ $active := or ($current.IsMenuCurrent "header" .) ($current.HasMenuCurrent "header" .) }}
+                {{ if $active }}
+                <u>
                   {{ .Name | upper }}
-                  {{ end }}
+                </u>
                 {{ else }}
-                <!-- HOME -->
-                <div class="w-50">
-                 <img src="/images/JFP.png" alt="Home" class="img-fluid">
-                </div>
+                  {{ .Name | upper }}
                 {{ end }}
               </a>
             </li>
+            {{ else }}
+            <!-- HOME LOGO -->
+            <li class="nav-item align-self-center col">
+              <a data-scroll class="nav-link text-center" href="{{ .URL | relURL }}">
+                <img src="/images/JFP.png" alt="Home" class="img-fluid w-50">
+              </a>
+            </li>
             {{ end }}
-            <li class="nav-item align-self-center">
-              <a data-scroll class="nav-link" href="mailto:jfparie@me.com">
+            {{ end }}
+            <li class="nav-item align-self-center text-center col row">
+              <a data-scroll class="nav-link col" href="mailto:jfparie@me.com">
                 {{ partial "svg/mail.html" }}
               </a>
-            </li>
-            <li class="nav-item align-self-center">
-              <a data-scroll class="nav-link" href="https://linkedin.com/in/jfparie/" target="_blank">
+              <a data-scroll class="nav-link col" href="https://linkedin.com/in/jfparie/" target="_blank">
                 {{ partial "svg/linkedin.html" }}
               </a>
-            </li>
-            <li class="nav-item align-self-center">
-              <a data-scroll class="nav-link" href="https://github.com/jfparie" target="_blank">
+              <a data-scroll class="nav-link col" href="https://github.com/jfparie" target="_blank">
                 {{ partial "svg/git.html" }}
               </a>
             </li>
-          {{ if hugo.IsMultilingual }}
-          {{ range .Site.Languages }}
-          {{ if eq . $.Site.Language }}
-          <li class="nav-item align-self-center">
-          <button class="btn " type="button" data-bs-toggle="collapse" data-bs-target="#languages-dropdown"
-            aria-expanded="false" aria-controls="languages-dropdown">
-            <span class="label">{{ .LanguageName }}</span>
-          </button>
-          <div class="collapse" id="languages-dropdown">
-            <div class="card card-body">
-              <div class="current"><span>{{ .LanguageName }}</span></div>
-              {{ end }}
-              {{ end }}
+            {{ if hugo.IsMultilingual }}
+            {{ range .Site.Languages }}
+            {{ if eq . $.Site.Language }}
+            <li class="nav-item align-self-center text-center col d-inline">
+              {{ $currentLang := .LanguageName }}
               {{ range $.Translations }}
-              <div><a class="translation" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">{{
-                  .Language.LanguageName }}</a></div>
+              <a class="nav-link" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">
+                <strong>{{ $currentLang }}</strong> | {{.Language.LanguageName }}
+              </a>
               {{ end }}
-            </div>
-          </div>
-        </li>
-          {{ end }}
-          
-        </ul>
+            </li>
+            {{ end }}
+            {{ end }}
+            {{ end }}
+
+          </ul>
         </div>
       </div>
     </nav>
