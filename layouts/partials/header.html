@@ -1,11 +1,7 @@
-<header class="sticky-top" id="header">
+<header class="sticky-top bg-white" id="header">
   <div class="container">
     <nav class="navbar navbar-expand-lg navbar-light p-0 d-inline-block">
       <div class="container-fluid">
-        <a class="navbar-brand mx-auto" href="{{ .Site.BaseURL | absURL }}">
-          <span>{{ i18n "logo_text1" }}</span>
-          <span>{{ i18n "logo_text2" }}</span>
-        </a>
         <button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
           aria-label="Toggle navigation">
@@ -14,14 +10,22 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-lg-auto">
             {{ range .Site.Menus.header }}
-            <li class="nav-item">
-              <a data-scroll class="nav-link" href="{{ .URL | relURL }}">{{ .Name | upper }}</a>
+            <li class="nav-item align-self-center">
+              <a data-scroll class="nav-link" href="{{ .URL | relURL }}">
+                {{ if .Name }}
+                {{ .Name | upper }}
+                {{ else }}
+                <div class="w-50">
+                 <img src="/images/JFP.png" alt="Home" class="img-fluid">
+                </div>
+                {{ end }}
+              </a>
             </li>
             {{ end }}
           {{ if hugo.IsMultilingual }}
           {{ range .Site.Languages }}
           {{ if eq . $.Site.Language }}
-          <li class="nav-item">
+          <li class="nav-item align-self-center">
           <button class="btn " type="button" data-bs-toggle="collapse" data-bs-target="#languages-dropdown"
             aria-expanded="false" aria-controls="languages-dropdown">
             <span class="label">{{ .LanguageName }}</span>

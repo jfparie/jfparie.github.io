@@ -1,5 +1,4 @@
 [[header]]
-    name = 'Home'
     URL = '/'
     weight = 1
 [[header]]
