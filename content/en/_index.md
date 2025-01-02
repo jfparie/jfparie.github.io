@@ -1,7 +1,30 @@
 ---
-title: Boards
 ---
 
-{{<title_block title="Title_block title" img="/images/pink_square.png" >}}
+{{<container>}}
+{{<banner title="Title_block title" img="/images/pink_square.png" border="1" >}}
 [Subtitle](/)
-{{</title_block>}}
+{{</banner>}}
+{{</container>}}
+
+{{<row>}}
+
+<p>My work is covered in various media outlets (NRC, het Financieel Dagblad and de Volkskrant) and scientific journal PNAS</p>
+{{</row>}}
+
+{{<container>}}
+{{<title title="2024">}}
+{{<banner img="/images/pink_square.png" >}}
+How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [(link)](/) \[Apr-14 2022\]
+{{</banner>}}
+{{<banner img="/images/pink_square.png" >}}
+How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [(link)](/) \[Apr-14 2022\]
+{{</banner>}}
+{{</container>}}
+
+{{<container>}}
+{{<title title="2023">}}
+{{<banner img="/images/pink_square.png" >}}
+How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [(link)](/) \[Apr-14 2022\]
+{{</banner>}}
+{{</container>}}
