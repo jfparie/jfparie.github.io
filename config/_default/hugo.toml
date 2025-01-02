@@ -62,7 +62,3 @@ languageCode = "nl"
   URL = "css/main.css"
   [[params.plugins.css]]
   URL = "css/custom.css"
-
-[params]
-
-  sections = ["about", "contact"]
