@@ -2,7 +2,7 @@
 ---
 
 {{<container>}}
-{{<banner title="Can Europe Regulate AI?" img="/images/home/20250121 Pakhuis.jpeg" border="1" >}}
+{{<banner title="Can Europe Regulate AI?" img="/images/home/20250121 Pakhuis.JPG" border="1" >}}
 Moderatie van debatavond over AI en geopolitiek verhoudingen met Marietje Schaake en Haroon Sheikh [[link](https://dezwijger.nl/nieuws/can-europe-regulate-ai)]
 <!-- [Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool](https://arxiv.org/abs/2502.01713) -->
 {{</banner>}}
