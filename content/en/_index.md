@@ -2,8 +2,9 @@
 ---
 
 {{<container>}}
-{{<banner title="Title" img="/images/pink_square.png" border="1" >}}
-[Subtitle](/)
+{{<banner title="Can Europe Regulate AI?" img="/images/home/20250121 Pakhuis.jpeg" border="1" >}}
+Moderating a debate on AI and geopolitical relations with Marietje Schaake and Haroon Sheikh [[link](https://dezwijger.nl/nieuws/can-europe-regulate-ai)]
+<!-- [Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool](https://arxiv.org/abs/2502.01713) -->
 {{</banner>}}
 {{</container>}}
 
