@@ -10,7 +10,7 @@ Moderatie van debatavond over AI en geopolitiek verhoudingen met Marietje Schaak
 
 {{<container>}}
 {{<content_block img="/images/home/Jurriaan_perron.jpg" >}}
-Jurriaan Parie (1994) is een allround algorithme-expert en mede-oprichter van stichting Algorithm Audit. Als wiskundige legt hij complexe algorithmes in Jip-en-Janneke taal uit. Als AI-policy watcher ontleedt hij de dilemma's die gepaard gaan met de inzet van technologie.
+Jurriaan Parie (Sneek, 1994) is een allround algorithme-expert en mede-oprichter van stichting Algorithm Audit. Als wiskundige legt hij complexe algorithmes in Jip-en-Janneke taal uit. Als AI-policy watcher ontleedt hij de dilemma's die gepaard gaan met de inzet van technologie.
 
 Van Zuidas naar non-profit: Jurriaan stopt met zijn baan als consultant om zich zonder winstoogmerk te richten op een eerlijke digitale toekomst. Met stichting Algorithm Audit werkt hij aan een Europees kennisplatform om AI bias testing en AI standaarden. Het werk van de stichting wordt door heel Europa gelezen.
 

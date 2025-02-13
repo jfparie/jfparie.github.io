@@ -10,10 +10,15 @@ Moderating a debate on AI and geopolitical relations with Marietje Schaake and H
 
 {{<container>}}
 {{<content_block img="/images/Jurriaan_perron.jpg" >}}
-Jurriaan Parie (1994) is een allround algorithme-expert en mede-oprichter van stichting Algorithm Audit. Als wiskundige legt hij complexe algorithmes in Jip-en-Janneke taal uit. Als AI-policy watcher ontleedt hij de dilemma's die gepaard gaan met de inzet van technologie.
+Jurriaan Parie (Sneek, 1994) is an all round algorithm expert and co-founder of NGO Algorithm Audit. With a background in mathematics, he explains complex algorithm is simple language. As an AI policy watcher, he unpacks the dilemmas surrounding widespread adoption of advanced technologies.
 
-Van Zuidas naar non-profit: Jurriaan stopt met zijn baan als consultant om zich zonder winstoogmerk te richten op een eerlijke digitale toekomst. Met stichting Algorithm Audit werkt hij aan een Europees kennisplatform om AI bias testing en AI standaarden. Het werk van de stichting wordt door heel Europa gelezen.
+**From business to non-profit** 
 
-Digitalisering vergt institutionele vernieuwing. Van zoekmachines tot beeldherkenning: nieuwe technologie moet worden gecontroleerd door parlement, toezichthouders en rechters, maar die weten lang niet altijd hoe. Vanuit zijn kwantitatieve achtergrond slaat Jurriaan een brug tussen de wereld van woorden en getallen om de democratische rechtstaat digitale slagkracht te geven.
+Jurriaan has quit his career as corporate consultant to contribute to a more fair digital future without focussing on profit maximization. With Algorithm Audit he is developing a European knowledge platform for AI bias testing and AI standards. The work of the NGO a read across Europe and beyond.
+
+**Institutional innovation**
+
+Digitalization demands adaptive institutions. From search engines to image detection: new technologies require oversight by parliaments, regulatory authortities and courts — many of which lack the necessary expertise. Drawing on his quantitative expertise, Jurriaan bridges the different reasonign paradigms of words and numbers, enhancing the rule of law's ability to govern digitalizing democracies.
+
 {{</content_block>}}
 {{</container>}}
