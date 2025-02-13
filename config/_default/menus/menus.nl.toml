@@ -6,14 +6,14 @@
   pageref = '/'
   weight = 2
 [[header]]
-  name = 'Artikel & Opinie'
-  pageref = '/artikel-en-opinie'
+  name = 'Artikelen & Opinie'
+  pageref = '/articles-opinion'
   weight = 3
 [[header]]
   name = 'Lezingen & Debat'
-  pageref = '/lezingen-en-debat'
+  pageref = '/talks-debate'
   weight = 4
 [[header]]
-  name = "Podcasts & Interviews"
-  pageref = "/podcasts-en-interviews"
+  name = " Interviews & Podcasts"
+  pageref = '/interviews-podcasts'
   weight = 5

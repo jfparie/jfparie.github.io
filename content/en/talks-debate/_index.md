@@ -6,7 +6,7 @@ title: TESTER2
 {{<container>}}
 {{<row>}}
 
-<p>My work is covered in various media outlets (NRC, het Financieel Dagblad and de Volkskrant) and scientific journal PNAS</p>
+<p>Public speaking is a regular part of my work. Below is an overview of some recent events.</p>
 {{</row>}}
 {{</container>}}
 

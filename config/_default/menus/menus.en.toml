@@ -7,13 +7,13 @@
     weight = 2
 [[header]]
     name = 'Articles & Opinion'
-    pageref = '/artikel-en-opinie'
+    pageref = '/articles-opinion'
     weight = 3
 [[header]]
-    name = 'Lezingen & Debat'
-    pageref = '/lezingen-en-debat'
+    name = 'Talks & Debate'
+    pageref = '/talks-debate'
     weight = 4
 [[header]]
-    name = "Podcasts & Interviews"
-    pageref = "/podcasts-en-interviews"
+    name = " Interviews & Podcasts"
+    pageref = '/interviews-podcasts'
     weight = 5

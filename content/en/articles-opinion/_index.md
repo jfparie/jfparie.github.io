@@ -12,28 +12,22 @@ title: TESTER2
 
 {{<container>}}
 
-<!-- Unsupervised bias detection tool paper -->
+<!-- 2022 -->
 {{<title title="2025">}}
+
+<!-- Scientific article UBDT -->
 {{<banner img="/images/articles-opinions/20250203 Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool.png" >}}
 **Preprint scientific article**
 
-Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool [[link](https://arxiv.org/pdf/2502.01713)]
+'Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool' [[link](https://arxiv.org/abs/2502.01713)]
 
 03-02-2025
 {{</banner>}}
 {{</container>}}
 
+<!-- 2022 -->
 {{<container>}}
 {{<title title="2024">}}
-
-<!-- Volkskrant interview -->
-{{<banner img="/images/articles-opinions/20240523 Volkskrant.png" >}}
-**Interview de Volkskrant**
-
-'Not the algorithm is the bogeyman, it's how people choose way people use it' [[link](https://www.volkskrant.nl/binnenland/wiskundige-jurriaan-parie-niet-het-algoritme-is-de-boeman-maar-de-manier-waarop-mensen-het-gebruiken~bca4caa8/)]
-
-23-05-2024
-{{</banner>}}
 
 <!-- NJB -->
 {{<banner img="/images/articles-opinions/20240315 NJB cover.jpg" >}}
@@ -54,19 +48,15 @@ Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bi
 {{</banner>}}
 {{</container>}}
 
-{{<container>}}
-{{<title title="2023">}} 
-{{<banner img="/images/pink_square.png" >}}
-How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [[link](https://www.parool.nl/columns-opinie/opinie-onderzoek-vooringenomenheid-van-zowel-algoritme-als-ambtenaar~bd69aa5e/)]
-{{</banner>}}
-{{</container>}}
-
+<!-- 2022 -->
 {{<container>}}
 {{<title title="2022">}} 
+
+<!-- Opinie FD -->
 {{<banner img="/images/articles-opinions/20220414 FD.png" >}}
 **Op-ed Financieel Dagblad**
 
-We need to reevaluate the purpose of algorithmic systems [[link](https://fd.nl/opinie/1436425/we-moeten-ons-bezinnen-op-het-bestaansrecht-van-algoritmen)]
+'We need to reevaluate the purpose of algorithmic systems' [[link](https://fd.nl/opinie/1436425/we-moeten-ons-bezinnen-op-het-bestaansrecht-van-algoritmen)]
 
 14-04-2022
 {{</banner>}}
@@ -74,6 +64,8 @@ We need to reevaluate the purpose of algorithmic systems [[link](https://fd.nl/o
 
 {{<container>}}
 {{<title title="2021">}} 
+
+<!-- Opinie VK -->
 {{<banner img="/images/articles-opinions/20210720 Volkskrant.png" >}}
 **Op-ed Volkskrant**
 
@@ -81,4 +73,46 @@ Be careful, if we aim to have public algorithms that are free from discriminatio
 
 20-07-2021
 {{</banner>}}
+
+<!-- Opinie VK microtargeting -->
+{{<banner img="/images/articles-opinions/20210628 VK.png" >}}
+**Op-ed Volkskrant**
+
+'Prohibit the use of microtargeting in political advertising' [[link](https://www.volkskrant.nl/columns-opinie/opinie-leg-inzet-gepersonaliseerde-advertenties-door-politiek-aan-banden~bf8d52e9/)]
+
+28-06-2021
+{{</banner>}}
+
+<!-- PNAS -->
+{{<banner img="/images/articles-opinions/20210628 PNAS.png" >}}
+**Scientific article PNAS**
+
+'Monitoring the COVID-19 epidemic with nationwide telecommunication data' [[link](https://www.pnas.org/doi/10.1073/pnas.2100664118)]
+
+28-06-2021
+{{</banner>}}
+
+<!-- Villamedia -->
+{{<banner img="/images/articles-opinions/20210429 Villamedia.png" >}}
+**Op-ed Villamedia**
+
+'The most-read sections on Dutch newspaper websites are easy to manipulate, which is problematic' [[link](https://www.villamedia.nl/artikel/de-rubriek-meest-gelezen-is-te-makkelijk-te-manipuleren-en-dat-is-niet-goed)]
+
+28-06-2021
+{{</banner>}}
+
+{{</container>}}
+
+{{<container>}}
+{{<title title="2019">}} 
+
+<!-- Opinie NRC PSD2 -->
+{{<banner img="/images/articles-opinions/20190816 NRC.png" >}}
+**Op-ed NRC**
+
+'Don't easily give away banking information' [[link](https://www.nrc.nl/nieuws/2019/08/16/geef-bankzaken-niet-te-makkelijk-prijs-a3970299)]
+
+16-08-2019
+{{</banner>}}
+
 {{</container>}}
