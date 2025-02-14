@@ -45,18 +45,13 @@
               </a>
             </li>
             {{ if hugo.IsMultilingual }}
-            {{ range .Site.Languages }}
-            {{ if eq . $.Site.Language }}
             <li class="nav-item align-self-center text-center col d-inline">
-              {{ $currentLang := .LanguageName }}
               {{ range $.Translations }}
               <a class="nav-link" title="{{ .Language.LanguageName }}" href="{{ .Permalink }}">
-                <strong>{{ $currentLang }}</strong> | {{.Language.LanguageName }}
+                {{ if not (eq "Nederlands" .Language.LanguageName) }}<strong>Nederlands</strong>{{else}}Nederlands{{end}} | {{ if not (eq "English" .Language.LanguageName) }}<strong>English</strong>{{else}}English{{end}}
               </a>
-              {{ end }}
+              {{ end}}
             </li>
-            {{ end }}
-            {{ end }}
             {{ end }}
 
           </ul>
