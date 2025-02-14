@@ -4750,10 +4750,10 @@ http2-wrapper@^2.1.10:
     quick-lru "^5.1.1"
     resolve-alpn "^1.2.0"
 
-hugo-extended@^0.140.0:
-  version "0.140.2"
-  resolved "https://registry.yarnpkg.com/hugo-extended/-/hugo-extended-0.140.2.tgz#4454317634881a6b362aea21d952c6468ae126ec"
-  integrity sha512-zq0xvRuTjpkzuzic5nfbo8PxvrClWjussLJG0qR6LlOFm1nJfZaA5IbK36avWE7gXOqLmbwOOynyqreSq/SNow==
+hugo-extended@^0.143.1:
+  version "0.143.1"
+  resolved "https://registry.yarnpkg.com/hugo-extended/-/hugo-extended-0.143.1.tgz#c2e960d7a975916cfad8d0abdcee54dc04346eba"
+  integrity sha512-gDGqeq/B/cZRIdMOg0bLskiLnM8gLEIiO4i2FRyVz8+efNV2OUuaZHQXkRAkkAgRUQ6deloGjeD6pGWPzS6a6A==
   dependencies:
     careful-downloader "^3.0.0"
     log-symbols "^5.1.0"
