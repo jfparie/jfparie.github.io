@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class='row {{if .Get "border"}}border{{end}} my-5 m-md-auto'>
+<div class='row {{if .Get "border"}}border{{end}} my-5 m-md-auto' id='{{ .Get "id" }}'>
     <div class="col-12 col-md-4 d-flex justify-content-center">
         <div class="m-lg-5 m-sm-2 m-md-4 mt-3 mx-auto">
             <img src='{{ .Get "img" }}' class="img-fluid" alt="">

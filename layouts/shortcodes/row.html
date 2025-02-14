@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class='row {{ .Get "class-row" }}'>
+<div class='row {{ .Get "class-row" }}' id='{{ .Get "id" }}'>
     <div class='col-12 {{ .Get "class-col" }}'>
         {{ .Inner }}
     </div>
