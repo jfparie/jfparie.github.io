@@ -1,0 +1,25 @@
+<!-- inject:../components/baseHead/baseHeadStart.html -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+	{{ partial "head.html" . }}
+
+</head>
+
+<body>
+
+	{{ partial "header.html" . }}
+	<section class="container pt-5" id="main">
+		<div class="pt-5">
+				{{ .Content }}
+		</div>
+	</section>
+
+	{{ partial "footer.html" . }}
+	{{ partial "base-foot.html" . }}
+</body>
+
+</html>
+<!-- endinject -->

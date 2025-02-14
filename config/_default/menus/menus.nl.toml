@@ -1,0 +1,19 @@
+[[header]]
+  pageref = '/'
+  weight = 1
+[[header]]
+  name = 'Home'
+  pageref = '/'
+  weight = 2
+[[header]]
+  name = 'Artikelen & Opinie'
+  pageref = '/articles-opinion'
+  weight = 3
+[[header]]
+  name = 'Lezingen & Debat'
+  pageref = '/talks-debate'
+  weight = 4
+[[header]]
+  name = " Interviews & Podcasts"
+  pageref = '/interviews-podcasts'
+  weight = 5

@@ -1,0 +1,11 @@
+baseURL = "https://jfparie.github.io/"
+languageCode = "nl"
+
+# Plugins
+[params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "css/main.css"
+  [[params.plugins.css]]
+  URL = "css/custom.css"

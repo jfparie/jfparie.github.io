@@ -1,0 +1,62 @@
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="theme-color" content="#478079" >
+
+<title>{{ i18n "head_title" }}</title>
+<meta name="description" content='{{ i18n "head_description" }}'>
+
+<link rel="preload" href='{{ "plugins/bootstrap/bootstrap.min.css" | absURL }}' as="style" onload="this.onload=null;this.rel='stylesheet'"></link>
+
+{{ $critical := resources.Get "css/critical.css" | css.Sass | resources.Minify }}
+<style data-generator="critical-css">
+{{ $critical.Content | safeCSS }}
+</style>
+
+{{ $cssResources := slice }}
+{{ range .Site.Params.plugins.css }}
+    {{ if findRE "^http" .URL }}
+        <link rel="stylesheet" href="{{ .URL | absURL }}">
+    {{ else }}
+        {{ $cssFile := resources.Get .URL }}
+        {{ $cssResources = $cssResources | append $cssFile }}
+    {{ end }}
+{{ end }}
+{{ range .Site.Params.plugins.scss }}  
+  {{ $scss := resources.Get .URL }}
+  
+  {{ if $scss }}
+  {{ $style := $scss | css.Sass | resources.Fingerprint }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+  {{ end }}
+
+{{ end }}
+
+{{ $cssBundle := $cssResources | resources.Concat "css/bundle.css" }}
+
+
+<!-- Purge CSS -->
+{{ $css := $cssBundle | css.PostCSS }} 
+{{ if hugo.IsProduction }} 
+    {{ $css = $css | minify | fingerprint | resources.PostProcess }} 
+{{ end }}
+
+<link
+  rel="preload"
+  href="{{ $css.RelPermalink }}"
+  as="style"
+  data-generator="purgeCSS"
+  onload="this.onload=null;this.rel='stylesheet'"
+  {{ if hugo.IsProduction -}} 
+    integrity="{{ $css.Data.Integrity }}"
+  {{- end }}
+/>
+<noscript>
+  <link 
+    rel="stylesheet" 
+    href="{{ $css.RelPermalink }}"
+    {{ if hugo.IsProduction -}} 
+    integrity="{{ $css.Data.Integrity }}"
+    {{- end }}
+  />
+</noscript>
+
