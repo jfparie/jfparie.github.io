@@ -1,12 +1,10 @@
 ---
-type: single
-title: TESTER2
 ---
 
 {{<container>}}
 {{<row>}}
 
-<p>An overview of interviews.</p>
+<p>Overview of interviews and podcasts.</p>
 {{</row>}}
 {{</container>}}
 

@@ -12,7 +12,7 @@ title: TESTER2
 
 {{<container>}}
 
-<!-- 2022 -->
+<!-- 2025 -->
 {{<title title="2025">}}
 
 <!-- Scientific article UBDT -->
@@ -25,7 +25,7 @@ title: TESTER2
 {{</banner>}}
 {{</container>}}
 
-<!-- 2022 -->
+<!-- 2024 -->
 {{<container>}}
 {{<title title="2024">}}
 
@@ -42,7 +42,7 @@ title: TESTER2
 {{<banner img="/images/articles-opinions/20240214 Parool.png" >}}
 **Co-author op-ed Parool**
 
-'Assess both bias of algorithm as civil servant' [[link](https://www.parool.nl/columns-opinie/opinie-onderzoek-vooringenomenheid-van-zowel-algoritme-als-ambtenaar~bd69aa5e/)]
+'Assess both bias of algorithms and of civil servants' [[link](https://www.parool.nl/columns-opinie/opinie-onderzoek-vooringenomenheid-van-zowel-algoritme-als-ambtenaar~bd69aa5e/)]
 
 14-02-2024
 {{</banner>}}
@@ -62,6 +62,7 @@ title: TESTER2
 {{</banner>}}
 {{</container>}}
 
+<!-- 2021 -->
 {{<container>}}
 {{<title title="2021">}} 
 
@@ -69,7 +70,7 @@ title: TESTER2
 {{<banner img="/images/articles-opinions/20210720 Volkskrant.png" >}}
 **Op-ed Volkskrant**
 
-Be careful, if we aim to have public algorithms that are free from discrimination [[link](https://www.volkskrant.nl/columns-opinie/opinie-even-opletten-als-we-bij-de-overheid-algoritmen-zonder-discriminatie-willen~bad6aeca/?referrer=https%3A%2F%2Fjfparie.github.io%2F)]
+'Be careful, if we aim to have public algorithms that are free from discrimination' [[link](https://www.volkskrant.nl/columns-opinie/opinie-even-opletten-als-we-bij-de-overheid-algoritmen-zonder-discriminatie-willen~bad6aeca/?referrer=https%3A%2F%2Fjfparie.github.io%2F)]
 
 20-07-2021
 {{</banner>}}
@@ -85,7 +86,7 @@ Be careful, if we aim to have public algorithms that are free from discriminatio
 
 <!-- PNAS -->
 {{<banner img="/images/articles-opinions/20210628 PNAS.png" >}}
-**Scientific article PNAS**
+**Scientific article Proceedings of the National Academy of Sciences (PNAS)**
 
 'Monitoring the COVID-19 epidemic with nationwide telecommunication data' [[link](https://www.pnas.org/doi/10.1073/pnas.2100664118)]
 
@@ -103,6 +104,7 @@ Be careful, if we aim to have public algorithms that are free from discriminatio
 
 {{</container>}}
 
+<!-- 2019 -->
 {{<container>}}
 {{<title title="2019">}} 
 
@@ -110,7 +112,7 @@ Be careful, if we aim to have public algorithms that are free from discriminatio
 {{<banner img="/images/articles-opinions/20190816 NRC.png" >}}
 **Op-ed NRC**
 
-'Don't easily give away banking information' [[link](https://www.nrc.nl/nieuws/2019/08/16/geef-bankzaken-niet-te-makkelijk-prijs-a3970299)]
+'Don't give away banking information easily' [[link](https://www.nrc.nl/nieuws/2019/08/16/geef-bankzaken-niet-te-makkelijk-prijs-a3970299)]
 
 16-08-2019
 {{</banner>}}

@@ -6,23 +6,115 @@ title: TESTER2
 {{<container>}}
 {{<row>}}
 
-<p>My work is covered in various media outlets (NRC, het Financieel Dagblad and de Volkskrant) and scientific journal PNAS</p>
+<p>Geschreven artikelen zijn gepubliceerd in verschillende media (NRC, de Volkskrant, Financieel Dagblad) en wetenschappelijke tijdschriften (PNAS, NJB).</p>
 {{</row>}}
 {{</container>}}
 
 {{<container>}}
-{{<title title="2024">}}
-{{<banner img="/images/pink_square.png" >}}
-How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [(link)](/) \[Apr-14 2022\]
-{{</banner>}}
-{{<banner img="/images/pink_square.png" >}}
-How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [(link)](/) \[Apr-14 2022\]
+
+<!-- 2025 -->
+{{<title title="2025">}}
+
+<!-- Scientific article UBDT -->
+{{<banner img="/images/articles-opinions/20250203 Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool.png" >}}
+**Preprint wetenschappelijk artikel**
+
+'Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool' [[link](https://arxiv.org/abs/2502.01713)]
+
+03-02-2025
 {{</banner>}}
 {{</container>}}
 
+<!-- 2024 -->
 {{<container>}}
-{{<title title="2023">}}
-{{<banner img="/images/pink_square.png" >}}
-How the Dutch Parlaiment should take action at the national level to regulate algorithmic systems? [(link)](/) \[Apr-14 2022\]
+{{<title title="2024">}}
+
+<!-- NJB -->
+{{<banner img="/images/articles-opinions/20240315 NJB cover.jpg" >}}
+**Co-auteur wetenschappelijk artikel Nederlands Juristenblad (NJB)**
+
+'Hoe ‘algoprudentie’ kan bijdragen aan een verantwoorde inzet van machine learning-algoritmes' [[link](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/white_paper_algoprudence/)]
+
+15-03-2024
 {{</banner>}}
+
+<!-- Opinie Parool interview -->
+{{<banner img="/images/articles-opinions/20240214 Parool.png" >}}
+**Opinie Parool**
+
+'Onderzoek vooringenomenheid van zowel algoritme als ambtenaar' [[link](https://www.parool.nl/columns-opinie/opinie-onderzoek-vooringenomenheid-van-zowel-algoritme-als-ambtenaar~bd69aa5e/)]
+
+14-02-2024
+{{</banner>}}
+{{</container>}}
+
+<!-- 2022 -->
+{{<container>}}
+{{<title title="2022">}} 
+
+<!-- Opinie FD -->
+{{<banner img="/images/articles-opinions/20220414 FD.png" >}}
+**Opinie Financieel Dagblad**
+
+'We moeten ons bezinnen op het bestaandsrecht van algoritmen' [[link](https://fd.nl/opinie/1436425/we-moeten-ons-bezinnen-op-het-bestaansrecht-van-algoritmen)]
+
+14-04-2022
+{{</banner>}}
+{{</container>}}
+
+<!-- 2021 -->
+{{<container>}}
+{{<title title="2021">}} 
+
+<!-- Opinie VK -->
+{{<banner img="/images/articles-opinions/20210720 Volkskrant.png" >}}
+**Opinie Volkskrant**
+
+'Even opletten als we bij de overheid algoritmen zonder discriminatie willen' [[link](https://www.volkskrant.nl/columns-opinie/opinie-even-opletten-als-we-bij-de-overheid-algoritmen-zonder-discriminatie-willen~bad6aeca/?referrer=https%3A%2F%2Fjfparie.github.io%2F)]
+
+20-07-2021
+{{</banner>}}
+
+<!-- Opinie VK microtargeting -->
+{{<banner img="/images/articles-opinions/20210628 VK.png" >}}
+**Opinie Volkskrant**
+
+'Leg inzet gepersonaliseerde advertenties door politiek aan banden' [[link](https://www.volkskrant.nl/columns-opinie/opinie-leg-inzet-gepersonaliseerde-advertenties-door-politiek-aan-banden~bf8d52e9/)]
+
+28-06-2021
+{{</banner>}}
+
+<!-- PNAS -->
+{{<banner img="/images/articles-opinions/20210628 PNAS.png" >}}
+**Wetenschappelijk artikel Proceedings of the National Academy of Sciences (PNAS)**
+
+'Monitoring the COVID-19 epidemic with nationwide telecommunication data' [[link](https://www.pnas.org/doi/10.1073/pnas.2100664118)]
+
+28-06-2021
+{{</banner>}}
+
+<!-- Villamedia -->
+{{<banner img="/images/articles-opinions/20210429 Villamedia.png" >}}
+**Opinie Villamedia**
+
+'De rubriek meest gelezen is te makkelijk te manipuleren en dat is niet goed' [[link](https://www.villamedia.nl/artikel/de-rubriek-meest-gelezen-is-te-makkelijk-te-manipuleren-en-dat-is-niet-goed)]
+
+28-06-2021
+{{</banner>}}
+
+{{</container>}}
+
+<!-- 2019 -->
+{{<container>}}
+{{<title title="2019">}} 
+
+<!-- Opinie NRC PSD2 -->
+{{<banner img="/images/articles-opinions/20190816 NRC.png" >}}
+**Opinie NRC**
+
+'Geef bankzaken niet te makkelijk prijs' [[link](https://www.nrc.nl/nieuws/2019/08/16/geef-bankzaken-niet-te-makkelijk-prijs-a3970299)]
+
+16-08-2019
+{{</banner>}}
+
 {{</container>}}
