@@ -10,7 +10,7 @@ Boekinterview met Marietje Schaake en Haroon Sheikh over AI en digitale soeverei
 {{</container>}}
 
 {{<container>}}
-{{<content_block img="/images/home/Jurriaan_perron.jpg" >}}
+{{<content_block img="/images/home/Jurriaan_VK.jpg" >}}
 Jurriaan Parie (Sneek, 1994) is een allround algorithme-expert en mede-oprichter van stichting Algorithm Audit. Als wiskundige legt hij complexe algorithmes in Jip-en-Janneke taal uit. Als AI-policy watcher ontleedt hij de dilemma's die gepaard gaan met de inzet van technologie.
 
 **Van bedrijfsleven naar non-profit** 

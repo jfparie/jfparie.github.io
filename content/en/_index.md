@@ -10,7 +10,7 @@ Book interview with Marietje Schaake and Haroon Sheikh on AI and digital soverei
 {{</container>}}
 
 {{<container>}}
-{{<content_block img="/images/Jurriaan_perron.jpg" >}}
+{{<content_block img="/images/Jurriaan_VK.jpg" >}}
 Jurriaan Parie (Sneek, 1994) is an all round algorithm expert and co-founder of NGO Algorithm Audit. With a background in mathematics, he explains complex algorithm is simple language. As an AI policy watcher, he unpacks the dilemmas surrounding widespread adoption of advanced technologies.
 
 **From business to non-profit** 
