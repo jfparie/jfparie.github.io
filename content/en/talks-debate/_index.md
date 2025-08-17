@@ -10,9 +10,19 @@ title: TESTER2
 {{</row>}}
 {{</container>}}
 
-<!-- 2025 -->
+
 {{<container>}}
+
+<!-- 2025 -->
 {{<title title="2025">}}
+
+{{<banner img="/images/talks-debate/20250521_CPDP25.jpg" >}}
+'Moderator panel discussion at CPDP 2025' [[link](https://www.cpdpconferences.org/panels/practical-solutions-for-debiasing-ai-balancing-data-availability-with-privacy-protection)]
+
+Moderating panel discussion on 'Empirical methods for fairer AI – Lessons from auditing a Dutch public sector risk profiling algorithm' at CPDP 2025
+
+21-05-2025
+{{</banner>}}
 
 {{<banner img="/images/home/20250121 Pakhuis.JPG" >}}
 'Can Europe regulate AI?' [[link](https://dezwijger.nl/programma/can-europe-regulate-ai)]
