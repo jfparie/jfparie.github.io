@@ -4,12 +4,25 @@
 {{<container>}}
 {{<row>}}
 
-<p>Overview of interviews and podcasts.</p>
+<p>Overzicht van interviews, quotes, podcasts etc.</p>
 {{</row>}}
 {{</container>}}
 
-<!-- 2024 -->
+<!-- 2025 -->
 {{<container>}}
+{{<title title="2025">}}
+
+<!-- Trouw interview -->
+{{<banner img="/images/interviews-podcasts/20250606 Trouw.png" >}}
+**Quote _Trouw_**
+
+'Amsterdam wilde met AI de bijstand eerlijker en efficienter maken. Het liep anders' [[link](https://www.trouw.nl/verdieping/amsterdam-wilde-met-ai-de-bijstand-eerlijker-en-efficienter-maken-het-liep-anders~b2890374/?referrer=https%3A%2F%2Falgorithmaudit.eu%2F)]
+
+06-06-2025
+{{</banner>}}
+
+
+<!-- 2024 -->
 {{<title title="2024">}}
 
 <!-- Volkskrant interview -->

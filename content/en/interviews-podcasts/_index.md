@@ -4,11 +4,26 @@
 {{<container>}}
 {{<row>}}
 
-<p>Overview of interviews and podcasts.</p>
+<p>Overview of interviews, quotes, podcasts etc.</p>
 {{</row>}}
 {{</container>}}
 
 {{<container>}}
+
+<!-- 2025 -->
+{{<title title="2025">}}
+
+<!-- Trouw interview -->
+{{<banner img="/images/interviews-podcasts/20250606 MITTechnologyReview.png" >}}
+**Quote _MIT Technology Review_**
+
+'Inside Amsterdam’s high-stakes experiment to create fair welfare AI' [[link](https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/)]
+
+06-06-2025
+{{</banner>}}
+
+
+<!-- 2024 -->
 {{<title title="2024">}}
 
 <!-- Volkskrant interview -->
