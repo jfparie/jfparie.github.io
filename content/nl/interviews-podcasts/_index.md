@@ -12,9 +12,18 @@
 {{<container>}}
 {{<title title="2025">}}
 
+<!-- BinnenlandsBestuur -->
+{{<banner img="/images/interviews-podcasts/20250827 BinnenlandsBestuur.png" >}}
+**Interview BinnenlandsBestuur**
+
+Rijk zegt nauwelijks hoog risico-AI te gebruiken' [[link](https://www.binnenlandsbestuur.nl/digitaal/rijk-zegt-nauwelijks-hoog-risico-ai-te-gebruiken)]
+
+27-08-2025
+{{</banner>}}
+
 <!-- Trouw interview -->
 {{<banner img="/images/interviews-podcasts/20250606 Trouw.png" >}}
-**Quote _Trouw_**
+**Quote Trouw**
 
 'Amsterdam wilde met AI de bijstand eerlijker en efficienter maken. Het liep anders' [[link](https://www.trouw.nl/verdieping/amsterdam-wilde-met-ai-de-bijstand-eerlijker-en-efficienter-maken-het-liep-anders~b2890374/?referrer=https%3A%2F%2Falgorithmaudit.eu%2F)]
 
@@ -27,7 +36,7 @@
 
 <!-- Volkskrant interview -->
 {{<banner img="/images/interviews-podcasts/20240523 Volkskrant.png" >}}
-**Interview _de Volkskrant_**
+**Interview de Volkskrant**
 
 'Niet het algoritme is de boeman maar de manier waarop mensen het gebruiken' [[link](https://www.volkskrant.nl/binnenland/wiskundige-jurriaan-parie-niet-het-algoritme-is-de-boeman-maar-de-manier-waarop-mensen-het-gebruiken~bca4caa8/)]
 

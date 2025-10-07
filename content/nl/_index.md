@@ -2,10 +2,10 @@
 ---
 
 {{<container>}}
-{{<banner title="Can Europe Regulate AI?" img="/images/home/20250121 Pakhuis.JPG" border="1" >}}
-Boekinterview met Marietje Schaake en Haroon Sheikh over AI en digitale soevereiniteit [[link](https://dezwijger.nl/programma/can-europe-regulate-ai)]
+{{<banner title="Tools voor toezichthouders: Het begrijpen van algoritme audits" img="/images/home/20250930_UNESCO.jpeg" border="1" >}}
+Paneldiscussie tijdens UNESCO 'Expert Roundtable II: Capacity Building for Competent Authorities on AI' in Parijs
 
-19-01-2025
+30-09-2025
 {{</banner>}}
 {{</container>}}
 

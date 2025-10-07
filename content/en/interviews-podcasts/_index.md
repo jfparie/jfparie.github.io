@@ -13,9 +13,18 @@
 <!-- 2025 -->
 {{<title title="2025">}}
 
+<!-- BinnenlandsBestuur -->
+{{<banner img="/images/interviews-podcasts/20250827 BinnenlandsBestuur.png" >}}
+**Interview BinnenlandsBestuur**
+
+Dutch government says it barely uses high-risk AI [[link](https://www.binnenlandsbestuur.nl/digitaal/rijk-zegt-nauwelijks-hoog-risico-ai-te-gebruiken)]
+
+27-08-2025
+{{</banner>}}
+
 <!-- Trouw interview -->
 {{<banner img="/images/interviews-podcasts/20250606 MITTechnologyReview.png" >}}
-**Quote _MIT Technology Review_**
+**Quote MIT Technology Review**
 
 'Inside Amsterdam’s high-stakes experiment to create fair welfare AI' [[link](https://www.technologyreview.com/2025/06/11/1118233/amsterdam-fair-welfare-ai-discriminatory-algorithms-failure/)]
 
@@ -28,7 +37,7 @@
 
 <!-- Volkskrant interview -->
 {{<banner img="/images/interviews-podcasts/20240523 Volkskrant.png" >}}
-**Interview _de Volkskrant_**
+**Interview de Volkskrant**
 
 'Not the algorithm is the bogeyman, it's how people choose way people use it' [[link](https://www.volkskrant.nl/binnenland/wiskundige-jurriaan-parie-niet-het-algoritme-is-de-boeman-maar-de-manier-waarop-mensen-het-gebruiken~bca4caa8/)]
 
