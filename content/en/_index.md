@@ -2,10 +2,10 @@
 ---
 
 {{<container>}}
-{{<banner title="Tools for Supervising Authorities: Understanding Algorithm Audits" img="/images/home/20250930_UNESCO.jpeg" border="1" >}}
-Panel discussion during UNESCO 'Expert Roundtable II: Capacity Building for Competent Authorities on AI' in Paris
+{{<banner title="Supervising AI – Seminar of Dutch Journal for Supervision and professional association VIDE" img="/images/home/20251031_TvT.jpg" border="1" >}}
+Moderating panel discussion during seminar 'Supervising AI' Dutch Journal for Supervision and professional association VIDE at the Dutch Central Bank in Amsterdam
 
-30-09-2025
+31-10-2025
 {{</banner>}}
 {{</container>}}
 

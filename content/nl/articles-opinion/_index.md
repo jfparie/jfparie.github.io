@@ -15,6 +15,15 @@ title: TESTER2
 <!-- 2025 -->
 {{<title title="2025">}}
 
+<!-- TvT article -->
+{{<banner img="/images/articles-opinions/20251031 TvT Empirische toetsingsmethoden.png" >}}
+**Artikel Tijdschrift voor Toezicht**
+
+Artikel over praktische handvatten voor empirisch toezicht op profileringsalgoritmes geschreven in samenwerking met onderzoekers van Algorithm Audit en het Centraal Planbureau (CPB) [[link](https://www.boomportaal.nl/tijdschrift/TvT/TvT_1879-8705_2025_016_002_005)]
+
+31-10-2025
+{{</banner>}}
+
 <!-- Scientific article UBDT -->
 {{<banner img="/images/articles-opinions/20250203 Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool.png" >}}
 **Preprint wetenschappelijk artikel**

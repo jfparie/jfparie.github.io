@@ -2,10 +2,10 @@
 ---
 
 {{<container>}}
-{{<banner title="Tools voor toezichthouders: Het begrijpen van algoritme audits" img="/images/home/20250930_UNESCO.jpeg" border="1" >}}
-Paneldiscussie tijdens UNESCO 'Expert Roundtable II: Capacity Building for Competent Authorities on AI' in Parijs
+{{<banner title="Toezicht op AI – Seminar Tijdschrift voor Toezicht en beroepsvereniging VIDE" img="/images/home/20251031_TvT.jpg" border="1" >}}
+Modereren van paneldiscussie tijdens seminar 'Toezicht op AI' van Tijdschrift voor Toezicht en beroepsvereniging VIDE bij De Nederlandsche Bank in Amsterdam
 
-30-09-2025
+31-10-2025
 {{</banner>}}
 {{</container>}}
 
