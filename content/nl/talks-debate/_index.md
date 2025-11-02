@@ -16,26 +16,60 @@ title: TESTER2
 <!-- 2025 -->
 {{<title title="2025">}}
 
+<!-- TvT seminar -->
+{{<banner img="/images/talks-debate/20251031_TvT.jpg" >}}
+**Paneldiscussie 'Statistiek: kwaal of wondermiddel voor effectief toezicht op algoritmes en AI?’**
+
+Modereren van paneldiscussie over artikel 'Praktische handvatten voor empirisch toezicht op profileringsalgoritmes’ tijdens het seminar 'Toezicht op emerging technologies’ georganiseerd door Tijdschrift voor Toezicht en beroepsvereniging VIDE met:
+
+* Brenn Hekkelman, onderzoeker bij het Centraal Planbureau (CPB)
+
+* Cecile Schut, consultant bij Parell en oud-directeur Systeemtoezicht bij de Autoriteit Persoonsgegevens
+
+* Jesse Six Dijkstra, oud-Tweede Kamerlid met digitaliseringsportefeuille namens NSC
+
+31-10-2025
+{{</banner>}}
+
+<!-- UNESCO -->
 {{<banner img="/images/home/20250930_UNESCO.jpeg" >}}
 **Paneldiscussie tijdens UNESCO ‘Expert Roundtable II: Capacity Building for Competent Authorities on AI’ in Parijs**
 
-Delen van praktijkervaring tijdens paneldiscussie 'Tools voor toezichthouders: Het begrijpen van algoritme audits'.
+Delen van praktijkervaring tijdens paneldiscussie 'Tools voor toezichthouders: Het begrijpen van algoritme audits' met:
+
+* Gemma Galdon Clavell, CEO en oprichter van Eticas
+
+* Huub Janssen, Voorzitter Nederlandse en voorzitter Europese werkgroep toezichthouders op AI
+
+* Manuel Garcia Sanches, European Data Protection Supervisor 
 
 30-09-2025
 {{</banner>}}
 
+<!-- CPDP -->
 {{<banner img="/images/talks-debate/20250521_CPDP25.jpg" >}}
 **Modereren paneldiscussie CPDP 2025** [[link](https://www.cpdpconferences.org/panels/practical-solutions-for-debiasing-ai-balancing-data-availability-with-privacy-protection)]
 
-Modereren van paneldiscussie over 'Empirische methoden voor eerlijkere AI – Lessen van het auditeren van een Nederlands publieke sector risicoprofileringsalgoritme' tijdens CPDP 2025
+Modereren van paneldiscussie over 'Empirische methoden voor eerlijkere AI – Lessen van het auditeren van een Nederlands publieke sector risicoprofileringsalgoritme' tijdens CPDP 2025 met:
+
+* Marie-Beth van Egmond, onderzoeker Autoriteit Persoonsgegevens
+
+* Brenn Mittelstadt, Professor in Data ethiek en beleid aan Oxford Internet Institute
+
+* Carlos Mougan, technisch specialist bij de AI Office van de Europese Commissie
 
 21-05-2025
 {{</banner>}}
 
+<!-- Pakhuis de Zwijger -->
 {{<banner img="/images/home/20250121 Pakhuis.JPG" >}}
 **Kan Europa AI reguleren?** [[link](https://dezwijger.nl/programma/can-europe-regulate-ai)]
 
-Boekinterview met Marietje Schaake en Haroon Sheikh over AI en digitale soevereiniteit
+Boekinterview over Europa, regulering, AI en digitale soevereiniteit met:
+
+* Marietje Schaake over de *Tech Coup*
+
+* Haroon Sheikh over *Atlas van de Digitale Wereld*
 
 21-01-2025
 {{</banner>}}
@@ -47,6 +81,7 @@ Boekinterview met Marietje Schaake en Haroon Sheikh over AI en digitale soeverei
 {{<container>}}
 {{<title title="2024">}}
 
+<!-- Oxford gastcollege -->
 {{<banner img="/images/talks-debate/20241213_Oxford.jpeg" >}}
 **Gastcollege: Hoe algoprudentie bij kan dragen aan de verantwoorde inzet van ML algoritmes**
 
@@ -56,6 +91,7 @@ Gastcollege voor MSc Social Data Science studenten van de Universiteit van Oxfor
 
 {{</banner>}}
 
+<!-- Edison talk -->
 {{<banner img="/images/talks-debate/202410_Edison.jpg" >}}
 **AI een hype, muziek de oplossing?** [[link](https://www.edisons.nl/jazz/nieuws/terugblik-afas-edisons-jazz-en-klassiek-2024/)]
 
@@ -65,8 +101,9 @@ Talk over de impact en beperkingen van AI tijdens het produceren van muziek tijd
 
 {{</banner>}}
 
+<!-- BZK event -->
 {{<banner img="/images/talks-debate/202409_BZK.jpeg" >}}
-**Indirecte discriminatie in simpele algoritmische systemen** [[link](https://www.digitaleoverheid.nl/evenementen/bias-fairness-en-non-discriminatie-bij-inzet-algoritmes-en-ai/)]
+**Keynote 'Indirecte discriminatie in simpele algoritmische systemen'** [[link](https://www.digitaleoverheid.nl/evenementen/bias-fairness-en-non-discriminatie-bij-inzet-algoritmes-en-ai/)]
 
 Plenaire bijdrage over onderzoek naar indirecte discriminatie in een controleproces van de Dienst Uitvoering Onderwijs (DUO)
 
@@ -74,24 +111,39 @@ Plenaire bijdrage over onderzoek naar indirecte discriminatie in een controlepro
 
 {{</banner>}}
 
+<!-- CPDP'24 -->
 {{<banner img="/images/talks-debate/202405_CPDP24_2.jpeg" >}}
-**Decentralizeren van besluitvorming over eerlijke AI** [[link](https://www.youtube.com/watch?v=8AnlKDQGPng)]
+**Paneldiscussie 'Decentralizeren van besluitvorming over eerlijke AI'** [[link](https://www.youtube.com/watch?v=8AnlKDQGPng)]
 
-Modereren van een paneldiscussie over eerlijke AI tijdens CPDP'24
+Modereren van een paneldiscussie over eerlijke AI tijdens CPDP'24 met:
+
+* Laurens Naudts, AI, Media & Democracy Lab, Universiteit van Amsterdam
+
+* Karolina Iwanska, European Centre for Not-for-profit Law
+
+* Francien Dechesne, Centrum voor Recht en Digitale Technologieën, Universiteit Leiden.
 
 22-05-2024
 
 {{</banner>}}
 
+<!-- Bureau Clara Wichmann -->
 {{<banner img="/images/talks-debate/202405_BCW.jpeg" >}}
 **De zaak Meta** [[link](https://spui25.nl/programma/the-meta-case)]
 
-Paneldiscussie over juridische mogelijkheden om discriminerende algoritmes tegen te gaan, gefaciliteerd door NGO Bureau Clara Wichmann
+Paneldiscussie over juridische mogelijkheden om discriminerende algoritmes tegen te gaan, gefaciliteerd door NGO Bureau Clara Wichmann met:
+
+* Berty Bannor, staflid beleid en onderzoek Bureau Clara Wichmann
+
+* Naomi Appelboom, jurist en onderzoeker, Universiteit van Amsterdam
+
+* Rosie Sharpe, NGO Global Witness
 
 22-05-2024
 
 {{</banner>}}
 
+<!-- Amsterdamse gemeenteraad -->
 {{<banner img="/images/talks-debate/20240320_Amsterdam_raad.jpeg" >}}
 **Inspreker biastoets van ML algoritme gemeente Amsterdam** [[link](https://amsterdam.raadsinformatie.nl/vergadering/1215910/Raadscommissie%20Sociaal%2C%20Economische%20zaken%20en%20Democratisering%2020-03-2024)]
 
