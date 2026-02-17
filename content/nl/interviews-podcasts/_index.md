@@ -8,6 +8,18 @@
 {{</row>}}
 {{</container>}}
 
+<!-- 2026 -->
+{{<title title="2026">}}
+
+<!-- KHMW -->
+{{<banner img="/images/interviews-podcasts/20260119_KHMW.png" >}}
+**Interview Koninklijke Hollandsche Maatschappij der Wetenschappen (KHMW)**
+
+Interview met de KHMW volgend op toekenning €100.000 1e prijs Brouwer Vertrouwensprijs 2026 voor Algorithm Audit: [[link](https://khmw.nl/winnaar-eerste-prijs-khmw-brouwer-vertrouwensprijzen-2026-algorithm-audit/)]
+
+19-01-2026
+{{</banner>}}
+
 <!-- 2025 -->
 {{<container>}}
 {{<title title="2025">}}
