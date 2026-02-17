@@ -13,6 +13,54 @@ title: TESTER2
 
 {{<container>}}
 
+<!-- 2026 -->
+{{<title title="2026">}}
+
+<!-- EIPA -->
+{{<banner img="/images/talks-debate/20260203_EIPA.png" >}}
+**Paneldiscussie over 'Vertrouwen in instituties: Wat werkt, wat werkt niet en waarom?', European Institute of Public Administration'**
+
+Paneldiscussie over oplossingen die de werking van het openbaar bestuur kunnen verbeteren. Onderwerpen van discussie: succesvolle praktijkvoorbeelden, trends en de behoefte tot institutionele innovatie in het digitale tijdperk. Met:
+
+* Dr Valerie Frey, Acting Head of the Governance Indicators and Performance Division bij de OECD
+
+* Professor Willeke Slingerland, Hogeschool Utrecht.
+
+03-02-2026
+{{</banner>}}
+
+
+<!-- ODI Brussels -->
+{{<banner img="/images/talks-debate/20260127_ODI.jpeg" >}}
+**Paneldiscussie 'Governing the algorithm: embedding gender equality in Europe’s digital future, ODI Europe and UN Women'**
+
+Deelname aan een paneldiscussie tijdens ODI Europe en UN Women’s 'Governing the Algorithm'-event. Over: governance van algoritmische systemen, EU‑digitale regelgeving, genderongelijkheid en democratische waarden. Met:
+
+* June Lowery-Kingston, Equality Coordinator, European Commission
+
+* Katarina Wallin Bureau, General Manager, Microsoft
+
+* David Nemer, Associate Professor, University of Virginia
+
+* Boniface de Champris, AI Policy Lead, CCIA Europe
+
+* Theresa Chorbacher, Liaison Officer, UNESCO
+
+* Dora Meredith, ODI Europe
+
+26-01-2026
+{{</banner>}}
+
+<!-- KHMW -->
+{{<banner img="/images/talks-debate/20260119_KHMW.jpg" >}}
+**Brouwer Vertrouwensprijs 2026**
+
+Dankwoord en presentatie namens stichting Algorithm Audit na het in ontvangst nemen van de Brouwer Vertrouwensprijs 2026. [Link](https://khmw.nl/winnaar-eerste-prijs-khmw-brouwer-vertrouwensprijzen-2026-algorithm-audit/) naar interview.
+
+19-01-2026
+{{</banner>}}
+
+
 <!-- 2025 -->
 {{<title title="2025">}}
 

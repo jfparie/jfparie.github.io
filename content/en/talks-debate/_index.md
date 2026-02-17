@@ -6,12 +6,62 @@ title: TESTER2
 {{<container>}}
 {{<row>}}
 
-<p>Public speaking is a regular part of my work. Below is an selection of some recent events.</p>
+<p>Public speaking is a part of my work. Below is an selection of some recent events.</p>
 {{</row>}}
 {{</container>}}
 
 
 {{<container>}}
+
+
+<!-- 2026 -->
+{{<title title="2026">}}
+
+<!-- EIPA -->
+{{<banner img="/images/talks-debate/20260203_EIPA.png" >}}
+**Panel discussion 'Panel discussion on 'Trust in institutions: What is working and what is not working, and why?', European Institute of Public Administration'**
+
+Panel discussion on what solutions could improve the performance of public administration. Sharing best-practices, trends, and recommendations based on institutional innovation in the digital age. With:
+
+* Dr Valerie Frey, Acting Head of the Governance Indicators and Performance Division at the OECD
+
+* Professor Willeke Slingerland, Utrecht University of Applied Sciences.
+
+03-02-2026
+{{</banner>}}
+
+
+<!-- ODI Brussels -->
+{{<banner img="/images/talks-debate/20260127_ODI.jpeg" >}}
+**Panel discussion 'Governing the algorithm: embedding gender equality in Europe’s digital future, ODI Europe and UN Women'**
+
+Participating in a panel discussion at ODI Europe and UN Women’s Governing the Algorithm event, which explored how algorithmic systems, platform governance and EU digital regulation can reinforce or challenge gender inequality and shape democratic values. With:
+
+* June Lowery-Kingston, Equality Coordinator, European Commission
+
+* Katarina Wallin Bureau, General Manager, Microsoft
+
+* David Nemer, Associate Professor, University of Virginia
+
+* Boniface de Champris, AI Policy Lead, CCIA Europe
+
+* Theresa Chorbacher, Liaison Officer, UNESCO
+
+* Dora Meredith, Aline Burni, ODI Europe
+
+26-01-2026
+{{</banner>}}
+
+<!-- KHMW -->
+{{<banner img="/images/talks-debate/20260119_KHMW.jpg" >}}
+**Brouwer Trust Prize 2026**
+
+Thank-you remarks and presentation on behalf of the Algorithm Audit Foundation upon receiving the 2026 Brouwer Trust Prize.
+[Link](https://khmw.nl/winnaar-eerste-prijs-khmw-brouwer-vertrouwensprijzen-2026-algorithm-audit/) naar interview.
+
+19-01-2026
+{{</banner>}}
+
 
 <!-- 2025 -->
 {{<title title="2025">}}

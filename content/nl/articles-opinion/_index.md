@@ -6,7 +6,7 @@ title: TESTER2
 {{<container>}}
 {{<row>}}
 
-<p>Overzicht van geschreven artikelen in verschillende media (NRC, de Volkskrant, Financieel Dagblad) en wetenschappelijke tijdschriften (PNAS, NJB).</p>
+<p>Overzicht van geschreven artikelen in verschillende media (NRC, de Volkskrant, Financieel Dagblad) en wetenschappelijke tijdschriften (PNAS, NJB, TvT).</p>
 {{</row>}}
 {{</container>}}
 

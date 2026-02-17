@@ -10,6 +10,19 @@
 
 {{<container>}}
 
+<!-- 2026 -->
+{{<title title="2026">}}
+
+<!-- KHMW -->
+{{<banner img="/images/interviews-podcasts/20260119_KHMW.png" >}}
+**Interview Royal Holland Society of Sciences and Humanities (KHMW)**
+
+Interview with the KHMW following the award of the €100.000 Trust Prize 2026 for Algorithm Audit: [[link](https://khmw.nl/winnaar-eerste-prijs-khmw-brouwer-vertrouwensprijzen-2026-algorithm-audit/)]
+
+19-01-2026
+{{</banner>}}
+
+
 <!-- 2025 -->
 {{<title title="2025">}}
 

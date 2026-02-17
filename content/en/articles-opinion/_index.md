@@ -6,7 +6,7 @@ title: TESTER2
 {{<container>}}
 {{<row>}}
 
-<p>Written articles are covered in various media outlets (NRC, de Volkskrant, Financieel Dagblad) and scientific journals (PNAS, NJB).</p>
+<p>Written articles are covered in various media outlets (NRC, de Volkskrant, Financieel Dagblad) and scientific journals (PNAS, NJB, TvT).</p>
 {{</row>}}
 {{</container>}}
 
