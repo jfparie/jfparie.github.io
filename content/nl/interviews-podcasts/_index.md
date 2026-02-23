@@ -11,6 +11,15 @@
 <!-- 2026 -->
 {{<title title="2026">}}
 
+<!-- NRC algoritmeregister -->
+{{<banner img="/images/interviews-podcasts/202602220 NRC.png" >}}
+**Expertinput NRC**
+
+Commentaar over analyse van nationaal Algoritmeregister van de overheid, volgend op Algorithm Audit's [analyse](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/analysis_dutch_algorithm_register/) van het register: [[link](https://www.nrc.nl/nieuws/2026/02/19/door-schade-en-schande-wijs-geworden-transparantie-over-algoritmen-groeit-maar-nog-te-veel-achteraf-a4920722)]
+
+20-02-2026
+{{</banner>}}
+
 <!-- KHMW -->
 {{<banner img="/images/interviews-podcasts/20260119_KHMW.png" >}}
 **Interview Koninklijke Hollandsche Maatschappij der Wetenschappen (KHMW)**
