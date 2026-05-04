@@ -10,9 +10,32 @@ title: TESTER2
 {{</row>}}
 {{</container>}}
 
+
+<!-- 2026 -->
 {{<container>}}
+{{<title title="2026">}}
+
+<!-- TvT artikel -->
+{{<banner img="/images/articles-opinions/20260324 VK.png" >}}
+**Op-ed de Volkskrant**
+
+Op-ed how equality data help to inform evidence-based policy for more just and equal societies [[link](https://www.volkskrant.nl/columns-opinie/opinie-discriminatie-stoppen-begint-met-de-kracht-van-cijfers~be589f8a/)]
+
+24-03-2026
+{{</banner>}}
+
+<!-- Scientific article UBDT -->
+{{<banner img="/images/articles-opinions/20260215 IASEAI26.jpeg" >}}
+**Scientific article**
+
+'Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool' [[link](https://arxiv.org/abs/2502.01713)] presented during IASEAI'26 in Paris.
+
+15-02-2026
+{{</banner>}}
+{{</container>}}
 
 <!-- 2025 -->
+{{<container>}}
 {{<title title="2025">}}
 
 <!-- TvT artikel -->
@@ -22,16 +45,6 @@ title: TESTER2
 Article on empirical methods for supervising algorithmic profiling systems written in collaboration with researchers of Algorithm Audit en the Netherlands Central Planning Agency (CPB) [[link](https://www.boomportaal.nl/tijdschrift/TvT/TvT_1879-8705_2025_016_002_005)]
 
 31-10-2025
-{{</banner>}}
-
-
-<!-- Scientific article UBDT -->
-{{<banner img="/images/articles-opinions/20250203 Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool.png" >}}
-**Preprint scientific article**
-
-'Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool' [[link](https://arxiv.org/abs/2502.01713)]
-
-03-02-2025
 {{</banner>}}
 {{</container>}}
 
