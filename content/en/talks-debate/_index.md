@@ -17,6 +17,16 @@ title: TESTER2
 <!-- 2026 -->
 {{<title title="2026">}}
 
+<!-- AFM workshop -->
+{{<banner img="/images/talks-debate/20260602 AFM.JPG" >}}
+**Workshop for Dutch Authority for the Financial Markets (AFM)**
+
+Workshop on risk management of generative AI for Dutch Authority for the Financial Markets (AFM)
+
+02-06-2026
+{{</banner>}}
+
+
 <!-- EIPA -->
 {{<banner img="/images/talks-debate/20260203_EIPA.png" >}}
 **Panel discussion 'Panel discussion on 'Trust in institutions: What is working and what is not working, and why?', European Institute of Public Administration'**
