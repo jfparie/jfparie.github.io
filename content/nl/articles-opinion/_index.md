@@ -16,6 +16,15 @@ title: TESTER2
 {{<container>}}
 {{<title title="2026">}}
 
+<!-- CPDP book chapter -->
+{{<banner img="/images/articles-opinions/20260601 CPDP book.jpg" >}}
+**Boekhoofdstuk in Data Protection, Privacy and Artificial Intelligence, Volume 18**
+
+Hoofdstuk geschreven voor het boek 'Data Protection, Privacy and Artificial Intelligence, Volume 18' over empirische methoden voor toezicht op algoritme-gedreven profileringssystemen. [[link](https://algorithmaudit.eu/knowledge-platform/knowledge-base/empirical_methods_cpdp_book/)]
+
+01-06-2026
+{{</banner>}}
+
 <!-- TvT artikel -->
 {{<banner img="/images/articles-opinions/20260324 VK.png" >}}
 **Opinie de Volkskrant**

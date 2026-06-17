@@ -15,11 +15,20 @@ title: TESTER2
 {{<container>}}
 {{<title title="2026">}}
 
+<!-- CPDP book chapter -->
+{{<banner img="/images/articles-opinions/20260601 CPDP book.jpg" >}}
+**Book chapter in Data Protection, Privacy and Artificial Intelligence, Volume 18**
+
+Chapter to the book Data Protection, Privacy and Artificial Intelligence, Volume 18 on Empirical Methods for Supervising Algorithmic Profiling Systems. [[link](https://algorithmaudit.eu/knowledge-platform/knowledge-base/empirical_methods_cpdp_book/)]
+
+01-06-2026
+{{</banner>}}
+
 <!-- TvT artikel -->
 {{<banner img="/images/articles-opinions/20260324 VK.png" >}}
 **Op-ed de Volkskrant**
 
-Op-ed how equality data help to inform evidence-based policy for more just and equal societies [[link](https://www.volkskrant.nl/columns-opinie/opinie-discriminatie-stoppen-begint-met-de-kracht-van-cijfers~be589f8a/)]
+Op-ed how equality data help to inform evidence-based policy for more just and equal societies. [[link](https://www.volkskrant.nl/columns-opinie/opinie-discriminatie-stoppen-begint-met-de-kracht-van-cijfers~be589f8a/)]
 
 24-03-2026
 {{</banner>}}
@@ -28,7 +37,7 @@ Op-ed how equality data help to inform evidence-based policy for more just and e
 {{<banner img="/images/articles-opinions/20260215 IASEAI26.jpeg" >}}
 **Scientific article**
 
-'Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool' [[link](https://arxiv.org/abs/2502.01713)] presented during IASEAI'26 in Paris.
+Paper 'Auditing a Dutch Public Sector Risk Profiling Algorithm Using an Unsupervised Bias Detection Tool', presented during IASEAI'26 in Paris. [[link](https://arxiv.org/abs/2502.01713)] 
 
 15-02-2026
 {{</banner>}}
@@ -42,7 +51,7 @@ Op-ed how equality data help to inform evidence-based policy for more just and e
 {{<banner img="/images/articles-opinions/20251031 TvT Empirische toetsingsmethoden.png" >}}
 **Article Dutch journal for supervision**
 
-Article on empirical methods for supervising algorithmic profiling systems written in collaboration with researchers of Algorithm Audit en the Netherlands Central Planning Agency (CPB) [[link](https://www.boomportaal.nl/tijdschrift/TvT/TvT_1879-8705_2025_016_002_005)]
+Article on empirical methods for supervising algorithmic profiling systems written in collaboration with researchers of Algorithm Audit en the Netherlands Central Planning Agency (CPB). [[link](https://www.boomportaal.nl/tijdschrift/TvT/TvT_1879-8705_2025_016_002_005)]
 
 31-10-2025
 {{</banner>}}
@@ -56,7 +65,7 @@ Article on empirical methods for supervising algorithmic profiling systems writt
 {{<banner img="/images/articles-opinions/20240315 NJB cover.jpg" >}}
 **Co-author scientific article Dutch Journal for Legal Professionals (NJB)**
 
-'Algoprudence: Jurisprudence for algorithms' [[link](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/white_paper_algoprudence/)]
+'Algoprudence: Jurisprudence for algorithms'. [[link](https://algorithmaudit.eu/nl/knowledge-platform/knowledge-base/white_paper_algoprudence/)]
 
 15-03-2024
 {{</banner>}}
